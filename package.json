@@ -1,0 +1,30 @@
+{
+  "name": "html",
+  "version": "1.0.0",
+  "description": "my test pack",
+  "main": "index.js",
+  "dependencies": {
+    "ansicolor": "^1.1.71",
+    "as-table": "^1.0.31",
+    "ccxt": "^1.10.278",
+    "express": "^4.16.2",
+    "ololog": "^1.1.78"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "main_test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ruckusist/finsite.git"
+  },
+  "keywords": [
+    "finsite"
+  ],
+  "author": "ruckusist",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ruckusist/finsite/issues"
+  },
+  "homepage": "https://github.com/Ruckusist/finsite#readme"
+}
