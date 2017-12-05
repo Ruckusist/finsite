@@ -1,3 +1,4 @@
 # my site ignores
 
 config.yaml
+/node_modules/
